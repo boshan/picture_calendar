@@ -1,4 +1,4 @@
-This project is created to test the hypothesis that images help improve recall of experiences.
+This project is created to test the hypothesis that images help improve recall of facts and experiences.
 Todo:
 - Build a user interface.
 - Integrate backend.
